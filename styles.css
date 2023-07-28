@@ -61,7 +61,7 @@
 }
 
 .instagram{
-    border-top: solid .2rem  linear gradient hsl(37, 97%, 70%) to hsl(329, 70%, 58%);
+    border-top: solid .2rem  hsl(329, 70%, 58%);
 }
 
 .youtube{
