@@ -6,7 +6,7 @@
 }
 body{
     /* background-color: var(--bg-color); */
-    background-color: whhite;
+    background-color:var(--bg-color) ;
 }
 
 
